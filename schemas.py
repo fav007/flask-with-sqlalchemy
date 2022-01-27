@@ -1,6 +1,8 @@
 # schemas.py
 # pylint: disable=missing-docstring
 
+
+
 from wsgi import ma
 from models import Product
 
